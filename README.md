@@ -28,11 +28,12 @@ npm install
 npm run serve
 ```
 
+模板启动后， 打开浏览器访问 https://localhost:8082
+
 ### 教程系列
 [可视化组件教程系列之一：秒杀倒计时](https://www.bilibili.com/video/BV1WN411U7sH/?pop_share=1&vd_source=4d4373ee1eeea966766e271c095ce499)
 
-模板启动后， 打开浏览器访问 https://localhost:8082
-
+### 文档教程
 [官方开发文档](https://kil9pm.yuque.com/org-wiki-kil9pm-ref128/cudlte/cdlvhq7gs8esuel8)
 
 ### QA
