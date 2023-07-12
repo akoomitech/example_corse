@@ -1,7 +1,5 @@
 # 可视化组件教程样例
 
-![](https://static.imoka.cn/a/i/@imk_akoomi/round_lottery/0.0.1/snapshot/91868ae3-9cb9-4a79-996a-9b4aa90f5798.png_w240.png)
-
 ### 模板样例简介
 
 本模板为imoka可视化组件教程样例
