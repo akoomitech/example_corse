@@ -1,0 +1,41 @@
+.counter-time-bar {
+
+  display: flex;
+
+  :global {
+    .counter-time {
+      display: flex;
+  
+      & > .time {
+        display: flex;
+        padding-left: .04rem;
+        padding-right: .04rem;
+        height: .16rem;
+        align-items: center;
+        justify-content: center;
+        color: #fff;
+        background-color: #333;
+        border-radius: .04rem;
+        overflow: hidden;
+      }
+  
+      & > .unit {
+        display: flex;
+        min-width: .08rem;
+        height: .16rem;
+        justify-content: center;
+        align-items: center;
+        margin-left: .02rem;
+        margin-right: .02rem;
+        color: #333;
+        font-size: .12rem;
+      }
+  
+      &:last-child {
+  
+        & > .unit {
+        }
+      }
+    }
+  }
+}
