@@ -21,9 +21,9 @@ yarn global add @imoka/imoka-cli
 * 执行操作
 
 ```
-git clone git@github.com:akoomitech/round_lottery.git
+git clone git@github.com:akoomitech/example_course.git
 
-cd round_lottery
+cd example_course
 
 npm install
 
