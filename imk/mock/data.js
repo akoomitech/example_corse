@@ -3,5 +3,6 @@ const component = require('./component');
 const { requireImkModule, TypesValue } = devtools;
 
 module.exports = {
+  ...component.ImgZone.Data,
   ...component.SecKillCountDown.Data,
 }
